@@ -1,0 +1,2 @@
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\publish\win-x64\SharpClicker.pdb
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\publish\win-x64\SharpClicker.exe

@@ -1,0 +1,15 @@
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\SharpClicker.exe
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\SharpClicker.deps.json
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\SharpClicker.runtimeconfig.json
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\SharpClicker.dll
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\bin\Release\net6.0\SharpClicker.pdb
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.csproj.AssemblyReference.cache
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.AssemblyInfoInputs.cache
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.AssemblyInfo.cs
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.dll
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\refint\SharpClicker.dll
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.pdb
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.genruntimeconfig.cache
+C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\ref\SharpClicker.dll

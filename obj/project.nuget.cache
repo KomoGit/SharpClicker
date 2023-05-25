@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjV4QcpRgUtl6KMetQw5knvb8/xg5AoKSX9rnqVq3ql1Wnhtf0LMc08xdm5LR6vSmEoKxaVRf12m1AbhCK80Fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\SharpClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elnur\\.nuget\\packages\\ilmerge\\3.0.29\\ilmerge.3.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
