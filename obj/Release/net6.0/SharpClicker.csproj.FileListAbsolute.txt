@@ -13,3 +13,18 @@ C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Re
 C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.pdb
 C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\SharpClicker.genruntimeconfig.cache
 C:\Users\Elnur\OneDrive\Рабочий стол\SharpClicker\SharpClicker\obj\Release\net6.0\ref\SharpClicker.dll
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.dll
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\refint\SharpClicker.dll
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.pdb
+C:\Users\Администратор\Desktop\Git\SharpClicker\bin\Release\net6.0\SharpClicker.exe
+C:\Users\Администратор\Desktop\Git\SharpClicker\bin\Release\net6.0\SharpClicker.deps.json
+C:\Users\Администратор\Desktop\Git\SharpClicker\bin\Release\net6.0\SharpClicker.runtimeconfig.json
+C:\Users\Администратор\Desktop\Git\SharpClicker\bin\Release\net6.0\SharpClicker.dll
+C:\Users\Администратор\Desktop\Git\SharpClicker\bin\Release\net6.0\SharpClicker.pdb
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\SharpClicker.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Git\SharpClicker\obj\Release\net6.0\ref\SharpClicker.dll

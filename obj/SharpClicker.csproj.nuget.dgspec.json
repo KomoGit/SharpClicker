@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\SharpClicker.csproj": {}
+    "C:\\Users\\Администратор\\Desktop\\Git\\SharpClicker\\SharpClicker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\SharpClicker.csproj": {
+    "C:\\Users\\Администратор\\Desktop\\Git\\SharpClicker\\SharpClicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\SharpClicker.csproj",
+        "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\Git\\SharpClicker\\SharpClicker.csproj",
         "projectName": "SharpClicker",
-        "projectPath": "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\SharpClicker.csproj",
-        "packagesPath": "C:\\Users\\Elnur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elnur\\OneDrive\\Рабочий стол\\SharpClicker\\SharpClicker\\obj\\",
+        "projectPath": "C:\\Users\\Администратор\\Desktop\\Git\\SharpClicker\\SharpClicker.csproj",
+        "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Администратор\\Desktop\\Git\\SharpClicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elnur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
